@@ -8,4 +8,8 @@
 6. Iroman
 7. Catwoman
 8. Hulk
+9. Motorista Fantasma
+10. Joker
+
+
 
