@@ -11,6 +11,7 @@
 9. Motorista Fantasma
 10. Joker
 11. Thor
+12. Batwoman
 
 
 
