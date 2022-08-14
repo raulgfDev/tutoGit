@@ -3,7 +3,7 @@
     let contador = 0;
     const p = document.querySelector("#p");
     const btn = document.querySelector( "#btn" );
-    btn.addEventListener(() => {
+    btn.addEventListener("click", () => {
 
         if ( contador === 0 ){
             p.innerHTML = "Raúl";
