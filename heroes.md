@@ -10,6 +10,7 @@
 8. Hulk
 9. Motorista Fantasma
 10. Joker
+11. Thor
 
 
 
