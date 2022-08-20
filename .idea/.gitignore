@@ -1,6 +1,7 @@
 # Default ignored files
+unTxt.txt
 /shelf/
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-unTxt.txt
+
