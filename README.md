@@ -14,3 +14,7 @@
 12. git push
 13. git commit -am
 
+14. git status
+15. git status -s
+16. git log
+17. git log --oneline
